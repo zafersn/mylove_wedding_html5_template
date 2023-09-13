@@ -35,6 +35,7 @@ Mylove – is a clean, unique, responsive Html5 wedding template. It is a modern
 + Bootstrap 5 Based
 + Detecting browser language and auto load webpage language(Supporting EN and TR)
 + Contact form and storing into MySQL database
++ reCAPTCHA v2 widget for the form
 
 ### CSS and JavaScripts Libraries
 
@@ -63,4 +64,34 @@ CREATE TABLE `weddcontact` (
 ) ENGINE=InnoDB AUTO_INCREMENT=0 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci
 
 ```
+
+In case if the hosting is off: see the demo preview over the SS:
+
+
+![1.](./demo_pics/1.png)
+![2.](./demo_pics/2.png)
+![3.](./demo_pics/3.png)
+![4.](./demo_pics/4.png)
+![5.](./demo_pics/5.png)
+![6.](./demo_pics/6.png)
+![7.](./demo_pics/7.png)
+![8.](./demo_pics/8.png)
+![9.](./demo_pics/9.png)
+![10.](./demo_pics/10.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
