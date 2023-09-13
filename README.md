@@ -11,7 +11,7 @@ Please do not hesitate to share your opinion with me.
 
 # Mylove - Wedding HTML5 Template - Wedding Site Templates
 
-Mylove – is a clean, unique, responsive Html5 wedding template. It is a modern, beautiful, elegant wedding template. We have tried to use modern tools like Html5, CSS3, Bootstrap, for building this template. Couple details, Love story, Countdown, Groomsmen and Bridesmaids, Events almost all kinds of wedding features we have tried to put into it. RSVP form can send an email. It has a unique design with amazing features for couples who want to build their wedding website. It looks great on mobile devices and desktops. It is clean and simple.
+Mylove – is a clean, unique, responsive Html5 wedding template. It is a modern, beautiful, elegant wedding template. We have tried to use modern tools like Html5, CSS3, Bootstrap, for building this template. Couple details, Love story, Countdown, Groomsmen and Bridesmaids, Events almost all kinds of wedding features we have tried to put into it. RSVP form cannot send an email now but can store the form objects in MySQL DB. It has a unique design with amazing features for couples who want to build their wedding website. It looks great on mobile devices and desktops. It is clean and simple.
 
 ### Mylove comes with 35 page
 
@@ -36,6 +36,7 @@ Mylove – is a clean, unique, responsive Html5 wedding template. It is a modern
 + Detecting browser language and auto load webpage language(Supporting EN and TR)
 + Contact form and storing into MySQL database
 + reCAPTCHA v2 widget for the form
++ Supports unique Irish historical fonts (ring of Kerry, see: https://www.cdnfonts.com/ring-of-kerry.font)
 
 ### CSS and JavaScripts Libraries
 
