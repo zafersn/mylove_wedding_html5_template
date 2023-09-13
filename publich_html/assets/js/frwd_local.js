@@ -1,0 +1,1 @@
+var loca=$.localise.defaultLanguage;$('#defaultLang').val(loca);console.log(loca);const words=loca.split('-');console.log(words[0]);if(words[0]=='en'){location.href='en-IE.html'}else if(words[0]=='tr'){location.href='tr-TR.html'}
